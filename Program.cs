@@ -174,7 +174,7 @@
 //     for (int i = 2; i <= n; i++) res *= i;
 //     return res;
 // }
-// 
+
 
 // Доп задание
 // Console.WriteLine(Gcd(48, 18));
